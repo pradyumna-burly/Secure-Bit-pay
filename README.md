@@ -1,4 +1,3 @@
-# Web3
+# Secure-Bit Pay
 
-This project aims to build a fun and interactive way to perform transactions on the blockchain by incorporating a Gif API to generate Gifs corresponding to each transaction and 
-storing it permanently on our Webapp. The link to the hosted website is here : https://bchainweebs.cf/
+The objective of this project is to create an engaging and interactive method for conducting blockchain transactions. This will be achieved by integrating a Gif API, which will generate unique Gifs for each transaction. These Gifs will be permanently stored on our Webapp. 
